@@ -2,7 +2,7 @@
 
 namespace Controllers;
 
-use Classes\Email;
+use classes\Email;
 use Model\Usuario;
 use MVC\Router;
 

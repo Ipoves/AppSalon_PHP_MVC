@@ -12,7 +12,7 @@ class Email {
 
     public function __construct( $email, $nombre, $token)
     {
-        $this->email = $email;
+        $this->email = $email; 
         $this->nombre = $nombre;
         $this->token = $token;       
     }
